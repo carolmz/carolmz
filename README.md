@@ -1,9 +1,18 @@
-### Hi there 👋, I'm Carol
-Welcome to my GitHub profile! I'm passionate about data science and machine learning, constantly exploring new ways to expand my knowledge and skills. Here's a bit more about me:
-- 🌱 I’m currently diving deep into the world of Python and machine learning.
-- 🔭 I’m actively participating in Kaggle competitions to challenge myself and learn from the best in the field.
-- 📚 I believe in continuous learning and enjoy sharing my insights and discoveries through my GitHub projects.
+# 👋 Hi, I'm Carol!
 
-Thanks for visiting my GitHub profile. Feel free to explore my repositories, contribute to my projects, or reach out for collaborations. Let's learn and grow together!
+🎯 **Data Scientist | Machine Learning Engineer | Data Engineer | Cloud Enthusiast**
 
-Happy coding! 🚀
+I’m passionate about using data to solve real-world problems and create business value. With a background in **Computer Science** and a **Master's in Management Analytics**, I combine technical expertise with business insight to deliver end-to-end data solutions.
+
+My toolbox includes:
+- **Languages & Tools**: Python, SQL, Pandas, Scikit-Learn, XGBoost, PySpark, Airflow, Docker
+- **Cloud**: AWS, GCP (in progress)
+- **Data Visualization**: Tableau, Plotly, Matplotlib
+- **ML Ops & Engineering**: MLflow, FastAPI, Streamlit
+- **Collaboration**: Git, GitHub, Jira, Agile
+
+🔍 I’m currently seeking new opportunities in **data science, ML engineering, data engineering, or cloud-based roles** — especially those where I can apply Python and machine learning.
+
+## 📫 Let’s connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/carolmz)
+- ✉️ Feel free to reach out for collaboration or just to chat data!
